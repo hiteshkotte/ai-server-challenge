@@ -26,9 +26,9 @@ pip install -r requirements.txt
 
 Create a `.env` file in the project root:
 
-OPENAI_API_KEY=openai-key
+OPENAI_API_KEY = openai-key
 
-OPENROUTER_API_KEY=openrouter-key
+OPENROUTER_API_KEY = openrouter-key
 
 ## Running the Server
 
